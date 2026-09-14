@@ -1,9 +1,9 @@
 {
-  "version": "6.6",
-  "versionCode": 85,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.6/SmartSplitv6.6.apk",
-  "notes": "SmartSplit v6.6 - double-press wallpaper variants and updated background source",
-  "sha256": "910f4d2188fafd13e250c783f9ad4ffb347746dd9301b92258da1dad5da035e6",
-  "size": 56942687,
+  "version": "6.7",
+  "versionCode": 86,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.7/SmartSplitv6.7.apk",
+  "notes": "SmartSplit v6.7 - direct double-press wallpaper transparency and Arrizo wallpaper support",
+  "sha256": "1e6cd28177f33659509f2e8fd62108ccdee5b0de875457c5d9c0036cd12a78d1",
+  "size": 56942875,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
