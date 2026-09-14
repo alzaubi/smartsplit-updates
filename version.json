@@ -1,9 +1,9 @@
 {
-  "version": "6.2",
-  "versionCode": 81,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.2/SmartSplitv6.2.apk",
-  "notes": "SmartSplit v6.2",
-  "sha256": "4409b0b36e3a8aaff232a31201d74edb725d688d4981789ff0aaaf22b6cd800d",
-  "size": 56930339,
+  "version": "6.3",
+  "versionCode": 82,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.3/SmartSplitv6.3.apk",
+  "notes": "SmartSplit v6.3 - faster Arrizo speed response",
+  "sha256": "b9897fc98b426a14e72a4471a9b7e7e03d4c966c06cde668bcd1b92e4df982ab",
+  "size": 56930587,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
