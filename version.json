@@ -1,9 +1,9 @@
 {
-  "version": "6.4",
-  "versionCode": 83,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.4/SmartSplitv6.4.apk",
-  "notes": "SmartSplit v6.4 - corrected final-theme speed and Expedition motion",
-  "sha256": "61208eededde82149dafab1762b79456bebc6e4c3d2f5e092087e28788e26013",
-  "size": 56930471,
+  "version": "6.5",
+  "versionCode": 84,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.5/SmartSplitv6.5.apk",
+  "notes": "SmartSplit v6.5 - Tank 500 dual-tank detection and Expedition Qibla compass",
+  "sha256": "707cd875494fac57473e330115a1735cc341e7deacb57458792dc4140d2d4080",
+  "size": 56942231,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
