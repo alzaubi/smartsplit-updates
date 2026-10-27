@@ -1,9 +1,9 @@
 {
-  "version": "6.7",
-  "versionCode": 86,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.7/SmartSplitv6.7.apk",
-  "notes": "SmartSplit v6.7 - direct double-press wallpaper transparency and Arrizo wallpaper support",
-  "sha256": "1e6cd28177f33659509f2e8fd62108ccdee5b0de875457c5d9c0036cd12a78d1",
-  "size": 56942875,
+  "version": "6.9.2",
+  "versionCode": 99,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.2/SmartSplit-v6.9.2.apk",
+  "notes": "SmartSplit v6.9.2 - calibrated native speed-gauge faces and a faster split Exit that closes both apps without restarting the SmartSplit dashboard.",
+  "sha256": "d4b4077f5b648fd257b105aa51d72dea25e506c007c694f94d7497ae4b4c8b08",
+  "size": 62615286,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
