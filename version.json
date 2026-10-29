@@ -1,9 +1,9 @@
 {
-  "version": "6.9.2",
-  "versionCode": 99,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.2/SmartSplit-v6.9.2.apk",
-  "notes": "SmartSplit v6.9.2 - calibrated native speed-gauge faces and a faster split Exit that closes both apps without restarting the SmartSplit dashboard.",
-  "sha256": "d4b4077f5b648fd257b105aa51d72dea25e506c007c694f94d7497ae4b4c8b08",
-  "size": 62615286,
+  "version": "6.9.3",
+  "versionCode": 100,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.3/SmartSplit-v6.9.3.apk",
+  "notes": "SmartSplit v6.9.3 - faster two-column gauge and wallpaper preview gallery, reliable two-finger cluster apply, embedded QR background transfer, firmware-safe HTML rendering, and interface compatibility fixes.",
+  "sha256": "bd402adce37d536534da16ccf734fe9822001dddc82cd6d72e150acf0675cd89",
+  "size": 62221588,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
