@@ -1,9 +1,9 @@
 {
-  "version": "6.9.6",
-  "versionCode": 103,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.6/SmartSplit-v6.9.6.apk",
-  "notes": "SmartSplit v6.9.6 - prevents launch and dashboard-reload crashes when newer gauge themes are saved, fixes one-finger gauge and wallpaper swipe crashes across all themes, and keeps HTML gauge previews image-only while loading live HTML only on the cluster.",
-  "sha256": "4ac3e7d1cff111c7130d23c32e75256139b9484c2ef687544a1ceea3c6fa0f13",
-  "size": 62225184,
+  "version": "6.9.7",
+  "versionCode": 104,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.7/SmartSplit-v6.9.7.apk",
+  "notes": "SmartSplit v6.9.7 - makes Dua Riding audio independent of Panel Auto-Run, prevents duplicate playback from repeated boot broadcasts, and uses the normal media audio route on TANK head units while preserving existing routing on other vehicles.",
+  "sha256": "3deeb5496dfc87a2de655d7e3d4bfc8fe6a258a9122b3925589f2ea00e64cc58",
+  "size": 62226204,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
