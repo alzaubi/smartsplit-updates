@@ -1,9 +1,9 @@
 {
-  "version": "6.9.3",
-  "versionCode": 100,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.3/SmartSplit-v6.9.3.apk",
-  "notes": "SmartSplit v6.9.3 - faster two-column gauge and wallpaper preview gallery, reliable two-finger cluster apply, embedded QR background transfer, firmware-safe HTML rendering, and interface compatibility fixes.",
-  "sha256": "bd402adce37d536534da16ccf734fe9822001dddc82cd6d72e150acf0675cd89",
-  "size": 62221588,
+  "version": "6.9.4",
+  "versionCode": 101,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.9.4/SmartSplit-v6.9.4.apk",
+  "notes": "SmartSplit v6.9.4 - crash-safe update downloads, Park-zero corrections for Defender, AMG and Sport gauges, faster cached previews, horizontal gauge swipes, vertical wallpaper swipes, responsive interface scrolling, and QR transfer beside the preview.",
+  "sha256": "95072eb556508b6ad96faf50ca1631e1c80098d96eb6abed16d1096521c6c0e1",
+  "size": 62225156,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
