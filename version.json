@@ -3,7 +3,7 @@
   "versionCode": 111,
   "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.10.5/SmartSplit-v6.10.5.apk",
   "notes": "SmartSplit v6.10.5 - restores the original GWM-compatible update flow and removes the extra certificate, size, and checksum rejection checks.",
-  "sha256": "e24a84513b5f4814cf470d677ff99b2132371b674a6f0cf41a13af4f1723edd8",
-  "size": 90072108,
+  "sha256": "4c165a0dbd26c2f5e8f51ccd001d3e360c2e10ea2e1675dd2c60c3d64d80196a",
+  "size": 90064875,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
