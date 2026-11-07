@@ -1,9 +1,9 @@
 {
-  "version": "6.10.1",
-  "versionCode": 107,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.10.1/SmartSplit-v6.10.1.apk",
-  "notes": "SmartSplit v6.10.1 - restores the proven VOLT/SmartSplit 6.1 mouse-pad input path for reliable cluster cursor, click, and scrolling on current GWM firmware; restores live DiPlay map embedding from the Send to Cluster tab; automatically hides the cluster cursor after 10 seconds of inactivity; keeps direct app launch on the physical cluster; adds the new SL launcher icon; and includes the latest HTML gauge, preview, settings, and cluster-display improvements.",
-  "sha256": "4eedd280ff6f4cc784e74e8a68869bfeb5e9997049fabc92ac106a07fb3417be",
-  "size": 89958132,
+  "version": "6.10.2",
+  "versionCode": 108,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.10.2/SmartSplit-v6.10.2.apk",
+  "notes": "SmartSplit v6.10.2 - fixes the cluster mouse cursor remaining visible after sending an app by rearming the 10-second inactivity timer whenever the cursor overlay is recreated.",
+  "sha256": "d207c8671a48716a2baa247fbff0824d2234fbc47908dd461dc1d2b1de399244",
+  "size": 89958136,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
