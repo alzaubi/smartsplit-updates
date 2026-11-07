@@ -1,9 +1,9 @@
 {
-  "version": "6.10.2",
-  "versionCode": 108,
-  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.10.2/SmartSplit-v6.10.2.apk",
-  "notes": "SmartSplit v6.10.2 - fixes the cluster mouse cursor remaining visible after sending an app by rearming the 10-second inactivity timer whenever the cursor overlay is recreated.",
-  "sha256": "d207c8671a48716a2baa247fbff0824d2234fbc47908dd461dc1d2b1de399244",
-  "size": 89958136,
+  "version": "6.10.3",
+  "versionCode": 109,
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.10.3/SmartSplit-v6.10.3.apk",
+  "notes": "SmartSplit v6.10.3 - fixes false SmartLink signature rejection on older GWM Android 9 firmware by using its compatible archive-signature API fallback; includes the 10-second cluster cursor auto-hide fix from v6.10.2.",
+  "sha256": "e511da861a15d8085f4253ef52213921023d5276b9df384ed620bbe2cc92be6c",
+  "size": 89958208,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
