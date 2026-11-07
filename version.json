@@ -3,7 +3,7 @@
   "versionCode": 109,
   "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/v6.10.3/SmartSplit-v6.10.3.apk",
   "notes": "SmartSplit v6.10.3 - fixes false SmartLink signature rejection on older GWM Android 9 firmware by using its compatible archive-signature API fallback; includes the 10-second cluster cursor auto-hide fix from v6.10.2.",
-  "sha256": "95bddd31ad3fa0cc0bbad21873efc07213c24dc35a797f1a19c3e2c56cf2ddf5",
-  "size": 90072648,
+  "sha256": "0180f0a11f10190d667ba6eb3dc1ce0f018b86a5e7c4b0befaeaa5527b2a5b53",
+  "size": 90114902,
   "signingCertSha256": "a2938beaf0c500b4c7a09a2ff7cd1f26c9ac2d23d7e9855804f3c4f8e684111a"
 }
