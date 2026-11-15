@@ -1,6 +1,6 @@
 {
-  "version": "6.10.6",
-  "versionCode": 112,
-  "url": "https://raw.githubusercontent.com/alzaubi/smartsplit-updates/main/SmartSplit-v6.10.6.apk",
-  "notes": "SmartSplit v6.10.6 - fixes first app selection in Send To Cluster, preserves the selected-app panel and mouse-pad size, restores the black SL icon, and prevents the clock saver from opening over active apps."
+  "version": "6.10.7",
+  "versionCode": 113,
+  "url": "https://raw.githubusercontent.com/alzaubi/smartsplit-updates/main/SmartSplit-v6.10.7.apk",
+  "notes": "SmartSplit v6.10.7 - keeps Waze resumed and focused on the cluster, restores cluster focus after mouse input, and suspends hidden dashboard, HTML-gauge, and video-wallpaper rendering while an external cluster app is active."
 }
