@@ -1,8 +1,6 @@
 {
   "version": "6.10.7",
   "versionCode": 113,
-  "url": "https://raw.githubusercontent.com/alzaubi/smartsplit-updates/main/SmartSplit-v6.10.7.apk?rev=20261115-2014",
-  "sha256": "BAF37BA584E267D50D7CB25B235C758A1966D01659B8839F2D7949A90700985E",
-  "publishedAt": "2026-11-15T20:14:15+03:00",
-  "notes": "SmartSplit v6.10.7 - keeps Waze resumed and focused on the cluster, restores cluster focus after mouse input, and suspends hidden dashboard, HTML-gauge, and video-wallpaper rendering while an external cluster app is active."
+  "url": "https://raw.githubusercontent.com/alzaubi/smartsplit-updates/main/SmartSplit-v6.10.7.apk",
+  "notes": "New interface with Waze cluster focus and rendering freeze fix."
 }
