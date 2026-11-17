@@ -1,7 +1,7 @@
 {
   "version": "6.10.9",
   "versionCode": 115,
-  "url": "https://raw.githubusercontent.com/alzaubi/smartsplit-updates/main/SmartSplit-v6.10.9.apk?rev=20261117-1216",
+  "url": "https://github.com/alzaubi/smartsplit-updates/releases/download/SmartSplitv6.10.9/SmartSplit-v6.10.9.apk",
   "sha256": "E0CABDFCF6A018D0A5C7AA59545BEFB04E37342F538956C3B83B4AB228AFA451",
   "publishedAt": "2026-11-17T12:16:50+03:00",
   "notes": "SmartSplit v6.10.9 - Send to cluster now opens the app directly on the cluster display (Android 9 blocked the old virtual-screen method), hides the gauge wallpaper while it is there and restores it on return, and gives the cluster app focus back 4 s after the head unit is left alone so maps keep moving. Split screen exits reliably (no stuck half-screen) and opens faster."
